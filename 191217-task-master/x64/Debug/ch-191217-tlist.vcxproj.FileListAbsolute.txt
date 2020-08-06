@@ -1,0 +1,2 @@
+C:\Users\herbe\Desktop\ch-191217-task-master\x64\Debug\ch-191217-tlist.exe
+C:\Users\herbe\Desktop\ch-191217-task-master\x64\Debug\ch-191217-tlist.pdb

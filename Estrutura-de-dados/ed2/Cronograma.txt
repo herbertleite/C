@@ -1,0 +1,20 @@
+O Cronograma das aulas será:
+1ª Bubblesort e Selectionsort
+
+2ª Insertionsort e Shellsort
+
+3ª MergesortOrdenação 
+
+4ª Quicksort
+
+5ª Heapsort
+
+6ª Operações de busca
+
+7ª Árvores
+
+(Árvore binária, árvore estritamente binária, árvore binária completa)
+
+8ª Percurso em árvore
+
+9ª Busca em árvore 

@@ -1,0 +1,31 @@
+/*
+
+1. Escreva uma função, que insira dados de N funcionários da Universidade Cabo Verde e envia-los 
+para ficheiro como o nome funcionarios.txt (o programa deverá informar quantos funcionários deseja 
+inserir no sistema?);
+
+2. Escreva uma função, que imprima registos de todos os funcionários que se encontra no ficheiro com 
+o nome funcionarios.txt, inserido anteriormente?
+
+3. Escreva uma função, que imprima os funcionários por categoria.
+
+4. Escreva uma função, que permite calcular quanto gasta a universidade com os funcionários por 
+categoria?
+
+5. Temos três tipos de categorias dos funcionários [Docente, Diretor e Técnico], sabendo que o 
+funcionário que é 
+1º-Docente recebe 2500$ por cada hora.
+2º-Diretor recebe 3500$ por hora 
+3º-Técnico recebe 1500$ por hora.
+ 
+Escreva uma função, que mostra o salário de um determinado funcionário dependendo do seu salário 
+liquido por hora, sabendo que INPS é de 12%, IUR é de 20% e sindicato é de 1%; 
+
+6. Escreva uma função, que ordena os funcionários na ordem crescentes e envia-los para o ficheiro 
+com o nome ordenar_funcionarios.txt;
+
+7. Escreva uma função, que imprima todos os funcionários com salario maior que 75000$.
+
+8. Escreva uma função, que dado nº de NIF permite eliminar todas as informações desse funcionário.  
+
+*/ 
