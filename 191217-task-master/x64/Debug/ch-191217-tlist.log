@@ -1,4 +1,0 @@
-﻿  ch-191217-task.c
-C:\Users\herbe\Desktop\ch-191217-task-master\ch-191217-task.c(652,47): warning C4100: 'TimerOrWaitFired': parâmetro formal não referenciado
-C:\Users\herbe\Desktop\ch-191217-task-master\ch-191217-task.c(652,30): warning C4100: 'lpParam': parâmetro formal não referenciado
-  ch-191217-tlist.vcxproj -> C:\Users\herbe\Desktop\ch-191217-task-master\x64\Debug\ch-191217-tlist.exe
